@@ -8,3 +8,9 @@ My data science and analytics projects
 3. R programming - create game Pao Ying Chunb
 4. Looker GA4 Dashboard
 5. Linear Regression Model using caret
+
+## Contact Me
+reach out to me at pea.kornkamol@gmail.com
+
+## Image
+![E76B4E47-E44D-4EBD-9F15-89D085D6243A_1_105_c](https://github.com/user-attachments/assets/840704e6-1685-40dc-a408-36f2b145963c)
