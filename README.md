@@ -1,2 +1,10 @@
-# data-bootcamp-bacth10
+# Data Science Bootcamp
 My data science and analytics projects
+
+## My personal projects
+
+1. SQL supermarket analysis
+2. SQL churn analysis
+3. R programming - create game Pao Ying Chunb
+4. Looker GA4 Dashboard
+5. Linear Regression Model using caret
