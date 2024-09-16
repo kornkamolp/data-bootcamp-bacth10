@@ -1,3 +1,7 @@
+# Hello
+- 🌱 I’m currently learning data science in Data Science Bootcamp 10 by Datarockie
+- 🎯 I’m actively working on developing the skills and knowledge necessary to kickstart my new career in data analysis
+
 # Data Science Bootcamp
 My data science and analytics projects
 
