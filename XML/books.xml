@@ -1,0 +1,17 @@
+<bookstore>
+  <book>
+    <title>Business Made Simple</title>
+    <author>Donald Miller</author>
+    <year>2015</year>
+  </book>
+  <book>
+    <title>Naked Statistics</title>
+    <author>Charles Wheelan</author>
+    <year>2012</year>
+  </book>
+  <book>
+    <title>Simple Marketing</title>
+    <author>Billy Broas ft. Tiago Forte</author>
+    <year>2024</year>
+  </book>
+</bookstore>
