@@ -1,0 +1,29 @@
+<cafe>
+    <drink category="tea">
+        <name>Honey lemon Black Tea</name>
+        <price rate="Baht">79</price>
+        <Calories>196</Calories>
+    </drink>
+    <drink category="tea">
+        <name>Royal milk tea with brown sugar pearls</name>
+        <price rate="Baht">119<price>
+        <Calories>400</Calories>
+    </drink>
+    <drink category="chocolate">
+        <name>Dark chocolate latte</name>
+        <price rate="Baht">130<price>
+        <Calories>250</Calories>
+    </drink>
+    <drink category="coffee">
+        <name>Americano coffee</name>
+            <temperature>hot</temperature>
+            <temperature>Iced</temperature>
+        <price rate="Baht">130<price>
+        <Calories>100</Calories>
+    </drink>
+    <drink category="coffee">
+        <name>Iced latte</name>
+        <price rate="Baht">150<price>
+        <Calories>350</Calories>
+    </drink>
+</cafe>
