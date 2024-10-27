@@ -25,7 +25,7 @@ CREATE TABLE repayments (
   	payment_id INT PRIMARY KEY,
   	loan_id INT,
   	payment_date DATE,
-  	amoint_paid DECIMAL(10,2),
+  	amount_paid DECIMAL(10,2),
   	payment_status VARCHAR(10) CHECK (payment_status IN ('on-time', 'late', 'missed')),
   	FOREIGN KEY (loan_id) REFERENCES Loans(loan_id)
 );
@@ -88,8 +88,6 @@ INSERT INTO Loans (loan_id, customer_id, loan_amount, loan_type, disbursement_da
 (110, 10, 27000.00, 'home', '2022-01-25', 5.8, 240, 'active'); 
 
 -- Insert sample data into the Repayments table
-ALTER table repayments
-RENAME COLUMN amoint_paid to amount_paid
 INSERT INTO repayments (payment_id, loan_id, payment_date, amount_paid, payment_status) VALUES
 (1001, 101, '2023-02-15', 500.00, 'on-time'),
 (1002, 101, '2023-03-15', 500.00, 'on-time'),
